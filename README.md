@@ -3,7 +3,7 @@
 
 ### Overview
 
-Welcome to the Real-Time Stock Tracker, a C# application designed to track and visualize real-time stock data! This project leverages modern DevOps practices, including containerization with Docker, CI/CD pipelines, and cloud monitoring with Prometheus & Grafana. With integrated stock analysis tools, users can follow stock prices, set alerts, and stay updated with relevant news in real-time.
+Welcome to the Real-Time Stock Tracker, a `C#` application designed to track and visualize real-time stock data! This project leverages modern DevOps practices, including containerization with Docker, CI/CD pipelines, and cloud monitoring with Prometheus & Grafana. With integrated stock analysis tools, users can follow stock prices, set alerts, and stay updated with relevant news in real-time.
 
 </hr>
 
@@ -35,7 +35,7 @@ Welcome to the Real-Time Stock Tracker, a C# application designed to track and v
 
 #### Prerequisites:
 
-   - .NET Core SDK
+   - .NET Core SDK 8.0
    - Docker (optional, for containerized deployment)
    - Git for version control
 
